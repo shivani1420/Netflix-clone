@@ -8,7 +8,7 @@ Netflix Landing Page Clone made with HTML, CSS and JAVASCRIPT. I have also made 
 
 ## 📸 Screenshot
 
-![Netflix_Landing_Page](c:\Users\shiva\OneDrive\Desktop\bharat internship projects\Netflix homepage - shivanikumbhar\resources\view.png)
+![Netflix_Landing_Page](file:///C:/Users/shiva/OneDrive/Desktop/bharat%20internship%20projects/Netflix%20homepage%20-%20shivanikumbhar/resources/view.png)
 
 
 <br>
